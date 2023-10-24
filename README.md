@@ -1,8 +1,6 @@
  
 ### Hi, Engin here 🌌 ###
 
- I work at [Innova](https://www.innova.com.tr/en) as **Android Developer** 📱
-
  Currently coding **Java** & **Kotlin** for my company and for my side projects I prefer **Vue** & **Flutter** .
 
  In case you want to reach me out here is my [LinkedIn](https://www.linkedin.com/in/engincanik/).
